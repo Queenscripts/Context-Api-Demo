@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+ 
+}
+.account-section{
+    button{
+        height: 6vh;
+        width: 20%;
+    }
+}
+.login-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    height: 100vh;
+input, button,
+.login-form{
+    display: flex; 
+    flex-direction: column;   
+    padding:10px ; 
+}}
